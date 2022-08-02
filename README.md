@@ -1,6 +1,6 @@
 # Hello! I'm lition. 🥰🥰🥰
 
-``` js life
+``` js
 if(alive){
     eat();
     game();
@@ -21,9 +21,9 @@ if(alive){
 
 <div style="margin-top:90px">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lition802&locale=cn&show_icons=true)](https://github.com/Lition802)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lition802&show_icons=true)](https://github.com/Lition802)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lition802&locale=cn&layout=compact)](https://github.com/Lition802)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lition802&layout=compact)](https://github.com/Lition802)
 
 </div>
