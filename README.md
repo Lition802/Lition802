@@ -1,7 +1,6 @@
 # Hello! I'm lition. 🥰🥰🥰
 
-
-<img src="https://s1.ax1x.com/2022/06/24/jFJxr4.jpg" width = "300" height = "200" alt="上号" style="display:inline-block;float:right"/>
+<img src="https://s1.ax1x.com/2022/08/02/vEij1O.png" width = "140" height = "200" style="display:inline-block;float:right"/>
 
 
 [![](https://img.shields.io/badge/OS-Ubuntu%20Linux-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
