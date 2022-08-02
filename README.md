@@ -1,4 +1,4 @@
-# Hello! I'm HuoHua. 🥰🥰🥰
+# Hello! I'm lition. 🥰🥰🥰
 <img src="https://raw.githubusercontent.com/HuoHuas001/Lition/main/icon.png" width = "300" height = "200" alt="上号" style="display:inline-block;float:right"/>
 
 
