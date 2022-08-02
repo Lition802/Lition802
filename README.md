@@ -1,6 +1,12 @@
 # Hello! I'm lition. 🥰🥰🥰
 
-<img src="https://s1.ax1x.com/2022/08/02/vEij1O.png" width = "140" height = "200" style="display:inline-block;float:right"/>
+``` js life
+if(alive){
+    eat();
+    game();
+    sleep();
+}
+```
 
 
 [![](https://img.shields.io/badge/OS-Ubuntu%20Linux-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
