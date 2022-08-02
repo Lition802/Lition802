@@ -1,6 +1,6 @@
 # Hello! I'm lition. 🥰🥰🥰
 
-<img src="https://raw.githubusercontent.com/lition802/lition802/main/study.jpg" width = "300" height = "200" alt="study" style="display:inline-block;float:right"/>
+<img src="https://raw.githubusercontent.com/Lition802/Lition802/main/study.jpg" width = "300" height = "300" alt="study" style="display:inline-block;float:right"/>
 
 ``` js
 if(alive){
