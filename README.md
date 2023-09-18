@@ -9,7 +9,7 @@ if(alive){
 ```
 
 
-[![](https://img.shields.io/badge/OS-Ubuntu%20Linux-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/OS-Kali%20Linux-33aadd?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/xiaomi-13-f5010c?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 [![](https://img.shields.io/badge/-Nodejs-007396?style=flat-square&logo=javascript&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Game-Minecraft%20Bedrock-33aadd?style=flat-square&logo=minecraft&logoColor=ffffff)](https://minecraft.net/)
