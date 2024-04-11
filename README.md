@@ -14,10 +14,9 @@ if(alive){
 [![](https://img.shields.io/badge/-Nodejs-007396?style=flat-square&logo=javascript&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/Game-Minecraft%20Bedrock-33aadd?style=flat-square&logo=minecraft&logoColor=ffffff)](https://minecraft.net/)
 
-- 🏫 `A high school student`
+- 🏫 `A college student`
 - 📧 `My Email Address` : dreamgqf@163.com
-- 🐧 `My QQ Number` : 2959435045
-- ✈️ `My Telegrame` : [Telegram Link](t.me/Lition)
+- ✈️ `My Telegrame` : [Telegram Link](https://t.me/Lition)
 
 <div style="margin-top:90px">
 
